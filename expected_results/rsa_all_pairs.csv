@@ -1,0 +1,5 @@
+pair,pair_label,relation,n_layers,rsa_median
+qwen2,Qwen2 / Qwen2-VL,within_family,28,0.896832764
+deepseek,DeepSeek-LLM / DeepSeek-VL,within_family,30,0.810316207
+mistral_idefics2,Mistral / Idefics2,cross_architecture,32,0.9521712
+floor_qwen2_mistral,Qwen2 / Mistral (unrelated floor),unrelated_floor,28,0.573481438

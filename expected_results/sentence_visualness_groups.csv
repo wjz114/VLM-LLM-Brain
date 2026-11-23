@@ -1,0 +1,149 @@
+article_id,fold,sentence_id,sentence_text,n_words,n_content_words,n_matched_words,coverage,visualness_mean,visualness_max,visualness_z_article,rank_within_article,k_top_bottom,visualness_group
+1,1,t.01.01,Could humans live on Mars some day?,7,6,6,1.000000,3.355833,4.722000,0.412788,11.000000,5,middle
+1,1,t.01.02,Scientists ask this question because Earth and Mars are similar.,10,7,7,1.000000,2.769286,4.333000,-0.972242,22.000000,5,middle
+1,1,t.01.03,"Similar to Earth day, Mars day is about 24 hours long.",11,8,8,1.000000,3.347375,4.333000,0.392815,12.000000,5,middle
+1,1,t.01.04,"Also, both planets are near the Sun in our solar system.",11,7,7,1.000000,3.327714,4.700000,0.346390,13.000000,5,middle
+1,1,t.01.05,Earth is the 3rd planet and Mars the 4th planet from the Sun.,13,7,5,0.714286,4.019000,4.700000,,,5,excluded
+1,1,t.01.06,Mars also has an axial tilt similar to Earth axial tilt.,11,8,6,0.750000,3.484333,4.333000,0.716218,7.000000,5,middle
+1,1,t.01.07,An axial tilt gives both planets seasons with temperature changes.,10,8,7,0.875000,3.474714,4.200000,0.693505,8.000000,5,middle
+1,1,t.01.08,"Just like Earth, Mars has cold winters and warmer summers.",10,8,8,1.000000,2.820500,4.333000,-0.851309,21.000000,5,middle
+1,1,t.01.09,"Like Earth, Mars has winds, weather, dust storms, and volcanoes.",10,8,8,1.000000,3.309500,4.333000,0.303380,15.000000,5,middle
+1,1,t.01.10,"But in some ways, Earth and Mars are different.",9,5,5,1.000000,3.318400,4.333000,0.324396,14.000000,5,middle
+1,1,t.01.11,"Differences include temperature, length of a year, and gravity.",9,6,6,1.000000,2.531667,4.056000,-1.533339,25.000000,5,bottom
+1,1,t.01.12,"The average temperature is -81 deg F on Mars, but 57 deg F on Earth.",15,6,4,0.666667,3.071000,4.333000,,,5,excluded
+1,1,t.01.13,A Martian year is almost twice as long as an Earth year.,12,7,6,0.857143,2.433167,4.333000,-1.765929,26.000000,5,bottom
+1,1,t.01.14,Earth gravity is almost 3 times stronger than Martian gravity.,10,7,5,0.714286,2.480600,4.333000,,,5,excluded
+1,1,t.01.15,"Given the similarities, can humans go to Mars and live there?",11,7,7,1.000000,3.455571,4.722000,0.648302,10.000000,5,middle
+1,1,t.01.16,NASA scientists want to answer this question.,7,5,4,0.800000,2.579000,3.765000,-1.421569,24.000000,5,bottom
+1,1,t.01.17,NASA oversees U.S. research on space exploration.,7,5,4,0.800000,3.871750,4.150000,1.631036,1.000000,5,top
+1,1,t.01.18,NASA scientists send devices called spacecraft to explore Mars.,9,8,7,0.875000,3.552000,4.625000,0.876002,5.000000,5,top
+1,1,t.01.19,The spacecraft carry rovers that can rove or move around.,10,7,6,0.857143,3.250500,4.375000,0.164062,16.000000,5,middle
+1,1,t.01.20,These wheeled rovers can explore characteristics of the planet.,9,6,6,1.000000,3.692667,4.625000,1.208162,2.000000,5,top
+1,1,t.01.21,They can also show land characteristics and weather on Mars.,10,7,7,1.000000,3.513571,4.472000,0.785259,6.000000,5,middle
+1,1,t.01.22,One of these NASA rovers is named Curiosity.,8,5,4,0.800000,3.041500,3.200000,-0.329456,19.000000,5,middle
+1,1,t.01.23,Curiosity found evidence that soil on Mars contains 2% water.,10,7,7,1.000000,3.593143,4.190000,0.973153,3.000000,5,top
+1,1,t.01.24,NASA has planned a new mission called Mars 2020.,9,6,4,0.666667,2.944000,3.938000,,,5,excluded
+1,1,t.01.25,This mission will use a new car-sized rover to examine Mars.,11,7,6,0.857143,3.126333,3.938000,-0.129136,18.000000,5,middle
+1,1,t.01.26,The new rover will contain additional instruments to study Mars.,10,7,7,1.000000,3.456000,4.111000,0.649314,9.000000,5,middle
+1,1,t.01.27,"For example, one instrument will take images beneath Mars surface.",10,8,8,1.000000,3.580500,4.909000,0.943299,4.000000,5,top
+1,1,t.01.28,Another instrument will attempt to make oxygen from carbon dioxide.,10,7,7,1.000000,2.214429,4.111000,-2.282441,27.000000,5,bottom
+1,1,t.01.29,Mars 2020 will help scientists answer important questions.,8,6,6,1.000000,2.916500,3.765000,-0.624621,20.000000,5,middle
+1,1,t.01.30,It will explore whether there has been life on Mars.,10,4,4,1.000000,3.167500,4.625000,-0.031929,17.000000,5,middle
+1,1,t.01.31,It will also answer whether humans can live on Mars in the future.,13,8,8,1.000000,2.704125,4.722000,-1.126108,23.000000,5,bottom
+2,2,t.02.01,How can engineers help prevent spills of oil from supertankers?,10,8,8,1.000000,3.090750,4.278000,-0.568841,22.000000,6,middle
+2,2,t.02.02,Supertankers are huge ships that carry oil over the oceans.,10,7,7,1.000000,3.429714,4.294000,0.496509,9.000000,6,middle
+2,2,t.02.03,A supertanker can contain about a half-million tons of oil.,10,7,6,0.857143,3.042000,3.667000,-0.722060,24.000000,6,middle
+2,2,t.02.04,A supertanker is the size of about five football fields.,10,6,6,1.000000,3.671000,4.579000,1.254859,3.000000,6,top
+2,2,t.02.05,A supertanker cargo area could hold the Empire State Building.,10,8,8,1.000000,3.249250,4.500000,-0.070683,18.000000,6,middle
+2,2,t.02.06,Most of the world oil is transported by these supertankers.,10,5,5,1.000000,3.549000,4.235000,0.871419,7.000000,6,middle
+2,2,t.02.07,Disasters occur when wrecked supertankers spill oil into the ocean.,10,7,7,1.000000,3.661143,4.294000,1.223879,5.000000,6,top
+2,2,t.02.08,"As a result of these oil spills, the environment is damaged.",11,5,5,1.000000,3.765000,4.278000,1.550297,2.000000,6,top
+2,2,t.02.09,"In 1967, a supertanker crashed near the shores of England.",10,5,4,0.800000,3.615500,3.762000,1.080425,6.000000,6,top
+2,2,t.02.10,"This crash resulted in washing ashore 200,000 dead seabirds.",9,6,6,1.000000,3.664833,4.294000,1.235478,4.000000,6,top
+2,2,t.02.11,"In 1989, another supertanker spilled oil into Alaska coast.",9,6,5,0.833333,3.478000,4.278000,0.648269,8.000000,6,middle
+2,2,t.02.12,"The spilled 11 million gallons of oil caused 1,000 otters to die.",12,7,7,1.000000,3.278000,4.353000,0.019677,14.000000,6,middle
+2,2,t.02.13,Oil spills from supertankers also kill drifting microscopic plants.,9,8,8,1.000000,3.185500,4.293000,-0.271046,19.000000,6,middle
+2,2,t.02.14,"These plants provide food for sea life, such as whales and shrimp.",12,8,8,1.000000,3.368125,4.647000,0.302936,11.000000,6,middle
+2,2,t.02.15,The plants also produce 70 percent of the world oxygen supply.,11,7,7,1.000000,2.788857,4.293000,-1.517677,30.000000,6,bottom
+2,2,t.02.16,Oil spills result partly from limitations in engineering.,8,6,6,1.000000,3.048833,4.278000,-0.700584,23.000000,6,middle
+2,2,t.02.17,Supertankers lack double bottom hulls for extra protection.,8,7,7,1.000000,3.351000,4.111000,0.249113,12.000000,6,middle
+2,2,t.02.18,Supertankers lack extra power and steering equipment for safety.,9,7,7,1.000000,3.038714,3.571000,-0.732387,25.000000,6,middle
+2,2,t.02.19,Supertankers also have only one boiler to provide the ship power.,11,8,8,1.000000,2.805625,3.944000,-1.464977,29.000000,6,bottom
+2,2,t.02.20,Supertankers have only one propeller to steer the huge ship.,10,7,7,1.000000,3.401429,4.294000,0.407608,10.000000,6,middle
+2,2,t.02.21,Lack of such backup components causes problems during emergencies.,9,8,8,1.000000,2.603000,4.000000,-2.101818,31.000000,6,bottom
+2,2,t.02.22,Emergencies for supertankers are ocean storms and coastal reefs.,9,6,6,1.000000,4.051167,4.389000,2.449707,1.000000,6,top
+2,2,t.02.23,Solutions to problems with supertankers include three tactics.,8,6,6,1.000000,3.157667,3.611000,-0.358525,20.000000,6,middle
+2,2,t.02.24,"Supertankers must be built with added hulls, boilers, and propellers.",10,7,7,1.000000,3.274000,4.105000,0.007105,16.000000,6,middle
+2,2,t.02.25,"These provide extra safety, control, and backup in emergencies.",9,6,6,1.000000,3.019333,4.000000,-0.793301,26.000000,6,bottom
+2,2,t.02.26,"Also, officers need top training to run and maneuver their ships.",11,8,8,1.000000,3.259625,4.118000,-0.038075,17.000000,6,middle
+2,2,t.02.27,Supertanker simulators at some facilities provide top training.,8,7,7,1.000000,3.301571,4.118000,0.093761,13.000000,6,middle
+2,2,t.02.28,"Finally, ground control stations should be installed near the shore.",10,8,8,1.000000,3.132375,4.211000,-0.438016,21.000000,6,middle
+2,2,t.02.29,Ground control stations would act like airplane control towers.,9,9,9,1.000000,3.275333,4.211000,0.011296,15.000000,6,middle
+2,2,t.02.30,They would guide supertankers safely on the oceans along coasts.,10,7,7,1.000000,2.983286,4.294000,-0.906597,27.000000,6,bottom
+2,2,t.02.31,This ensures safety in shipping lanes and along dangerous coasts.,10,7,7,1.000000,2.884286,4.000000,-1.217750,28.000000,6,bottom
+3,3,t.03.01,Two important math concepts are combinations and permutations.,8,6,6,1.000000,3.350500,3.947000,0.905163,5.000000,5,top
+3,3,t.03.02,Combinations and permutations are similar in several ways.,8,5,5,1.000000,3.297000,3.947000,0.739656,7.000000,5,middle
+3,3,t.03.03,Both refer to sets of objects that you pick and arrange in order.,13,7,7,1.000000,2.900429,3.824000,-0.487173,19.000000,5,middle
+3,3,t.03.04,"A set could be the numbers 1 through 9, or available pizza toppings.",13,7,7,1.000000,2.791714,4.000000,-0.823490,23.000000,5,bottom
+3,3,t.03.05,"For combinations and permutations, items are selected from a set.",10,5,5,1.000000,3.326600,3.947000,0.831226,6.000000,5,middle
+3,3,t.03.06,"For example, we can select 1-3 from the set 1-9 to count and order.",14,6,6,1.000000,2.923333,3.667000,-0.416315,18.000000,5,middle
+3,3,t.03.07,"However, combinations and permutations are calculated differently.",7,5,5,1.000000,2.421200,3.947000,-1.969709,26.000000,5,bottom
+3,3,t.03.08,"When we compute a combination, the item order does not matter.",11,7,7,1.000000,2.830571,3.947000,-0.703282,21.000000,5,middle
+3,3,t.03.09,"A combination of 1, 2, 3 is the same as the combination of 3, 2, 1.",16,3,3,1.000000,3.742333,3.947000,2.117334,1.000000,5,top
+3,3,t.03.10,Another example of a combination is picking pizza toppings.,9,6,6,1.000000,3.133500,4.000000,0.233854,13.000000,5,middle
+3,3,t.03.11,"Suppose you pick three toppings: cheese, pepperoni, and sausage.",9,7,7,1.000000,3.010571,4.158000,-0.146436,16.000000,5,middle
+3,3,t.03.12,"You can also say that you pick sausage, pepperoni, and cheese.",11,7,7,1.000000,2.829000,4.158000,-0.708144,22.000000,5,middle
+3,3,t.03.13,Here you have a combination of three things in two different orders.,12,7,7,1.000000,3.468857,3.947000,1.271311,2.000000,5,top
+3,3,t.03.14,But the pizzas you get are the same because the order does matter.,13,7,7,1.000000,2.616286,4.000000,-1.366194,25.000000,5,bottom
+3,3,t.03.15,"However, order does matter when we compute a permutation.",9,6,6,1.000000,2.412167,3.160000,-1.997655,27.000000,5,bottom
+3,3,t.03.16,"1,2 ,3 and 3,2 , 1 are different permutations of these three numbers.",13,4,4,1.000000,3.399000,3.632000,1.055202,3.000000,5,top
+3,3,t.03.17,In permutations different orders of items have different meanings.,9,6,6,1.000000,3.214500,3.789000,0.484435,10.000000,5,middle
+3,3,t.03.18,"Imagine you can pick only one for lunch: pizza, pasta, or rice.",12,9,9,1.000000,3.191222,4.000000,0.412423,12.000000,5,middle
+3,3,t.03.19,You say pizza is your favorite and rice is your least favorite.,12,6,6,1.000000,2.617667,4.000000,-1.361922,24.000000,5,bottom
+3,3,t.03.20,"So your order of preference is: 1) pizza, 2) pasta, and 3) rice.",13,5,5,1.000000,3.270800,4.000000,0.658604,9.000000,5,middle
+3,3,t.03.21,"If pizza runs out, the waiter will give you pasta and not rice.",13,8,8,1.000000,3.375250,4.000000,0.981729,4.000000,5,top
+3,3,t.03.22,But your friend may have a different order of preference.,10,5,5,1.000000,2.872400,3.737000,-0.573882,20.000000,5,middle
+3,3,t.03.23,"Your friend order could be: 1) rice, 2) pasta, and 3) pizza.",12,6,6,1.000000,3.195000,4.000000,0.424110,11.000000,5,middle
+3,3,t.03.24,So two orders of the same items mean something quite different.,11,8,8,1.000000,3.063375,3.789000,0.016916,15.000000,5,middle
+3,3,t.03.25,Permutation allows us to count all the possible orders of items.,11,7,7,1.000000,2.939143,3.789000,-0.367407,17.000000,5,middle
+3,3,t.03.26,"Given three numbers 1,2,3, we can derive 6 permutations.",9,6,6,1.000000,3.078667,3.667000,0.064222,14.000000,5,middle
+3,3,t.03.27,"These include 1,2,3 / 1,3,2 / 2,1,3 / 2,3,1 / 3,1,2 / 3,2,1.",13,1,1,1.000000,2.500000,2.500000,,,5,excluded
+3,3,t.03.28,These sequences in different orders are different permutations.,8,5,5,1.000000,3.292400,3.611000,0.725425,8.000000,5,middle
+4,4,t.04.01,Global Positioning System (GPS) is a system that helps us navigate.,11,7,6,0.857143,3.477833,3.882000,0.924698,5.000000,5,top
+4,4,t.04.02,GPS is a system of 24 or more satellites in space.,11,5,4,0.800000,3.541250,3.842000,1.115438,3.000000,5,top
+4,4,t.04.03,"These satellites orbit at about 12,000 miles above the Earth.",10,6,6,1.000000,3.313500,4.333000,0.430429,12.000000,5,middle
+4,4,t.04.04,Different satellites orbit the Earth in different locations.,8,6,6,1.000000,3.666167,4.333000,1.491153,1.000000,5,top
+4,4,t.04.05,They circle the Earth along 1 of 6 orbits continuously.,10,5,5,1.000000,3.418800,4.526000,0.747142,8.000000,5,middle
+4,4,t.04.06,They send information to a GPS receiver on Earth.,9,5,4,0.800000,3.353000,4.333000,0.549234,10.000000,5,middle
+4,4,t.04.07,The information is transmitted across space via radio signals.,9,7,6,0.857143,3.408500,4.333000,0.716163,9.000000,5,middle
+4,4,t.04.08,Radio signals travel through space like sound waves through a canyon.,11,10,10,1.000000,2.996700,4.425000,-0.522418,21.000000,5,middle
+4,4,t.04.09,Imagine you and your friend are at different sides of a canyon.,12,5,5,1.000000,3.317400,4.000000,0.442159,11.000000,5,middle
+4,4,t.04.10,You shout to your friend and she hears you after a short delay.,13,6,6,1.000000,2.194833,4.381000,-2.934212,28.000000,5,bottom
+4,4,t.04.11,This delay is the time that sound waves need to reach the other side.,14,8,8,1.000000,2.534250,4.425000,-1.913341,27.000000,5,bottom
+4,4,t.04.12,"Similarly, the satellite in space sends a radio signal at one time.",12,8,8,1.000000,3.219625,4.333000,0.148079,14.000000,5,middle
+4,4,t.04.13,After a delay the radio signal arrives at the GPS receiver on Earth.,13,8,7,0.875000,2.927857,4.333000,-0.729479,23.000000,5,middle
+4,4,t.04.14,The receiver records the precise time when the radio signal arrives.,11,7,7,1.000000,2.860857,4.333000,-0.930996,25.000000,5,bottom
+4,4,t.04.15,It then calculates the difference between these two times.,9,5,5,1.000000,3.002600,3.765000,-0.504673,20.000000,5,middle
+4,4,t.04.16,This time difference is the travel time of the radio signal.,11,6,6,1.000000,2.990833,4.333000,-0.540064,22.000000,5,middle
+4,4,t.04.17,The GPS uses this travel time to figure out how far the satellite is.,14,9,8,0.888889,3.091500,4.059000,-0.237286,17.000000,5,middle
+4,4,t.04.18,It uses the formula “distance = time (T) x rate of transmission (C)”.,13,6,6,1.000000,2.796500,3.190000,-1.124565,26.000000,5,bottom
+4,4,t.04.19,T is the travel time of the radio signal.,9,4,4,1.000000,3.069500,4.333000,-0.303456,18.000000,5,middle
+4,4,t.04.20,"C is the speed of light, more than 186,000 miles per second.",12,6,5,0.833333,3.420600,4.600000,0.752556,7.000000,5,middle
+4,4,t.04.21,T x C calculates the distance between the receiver and each satellite.,12,6,6,1.000000,3.017333,3.731000,-0.460359,19.000000,5,middle
+4,4,t.04.22,Different satellites have different distances from the receiver.,8,5,5,1.000000,3.289200,3.731000,0.357341,13.000000,5,middle
+4,4,t.04.23,This information helps the receiver determine its location on Earth.,10,6,6,1.000000,3.151333,4.333000,-0.057324,16.000000,5,middle
+4,4,t.04.24,The precise location is calculated based on geometry of distances.,10,6,6,1.000000,2.921167,3.579000,-0.749602,24.000000,5,bottom
+4,4,t.04.25,A GPS device that you carry in your car is a small receiver.,13,6,5,0.833333,3.517200,4.389000,1.043102,4.000000,5,top
+4,4,t.04.26,Radio signals from the satellites are updated as the device moves.,11,6,6,1.000000,3.476833,4.333000,0.921690,6.000000,5,middle
+4,4,t.04.27,At least 4 satellites are involved to pinpoint the device location.,11,6,6,1.000000,3.207667,4.316000,0.112111,15.000000,5,middle
+4,4,t.04.28,GPS devices provide maps and directions that help people travel.,10,8,7,0.875000,3.588143,4.409000,1.256479,2.000000,5,top
+5,5,t.05.01,Engineers design electrical circuits to power homes and buildings.,9,7,7,1.000000,3.635000,4.500000,1.543815,3.000000,6,top
+5,5,t.05.02,Electrical circuits are closed paths that electricity flows through.,9,7,7,1.000000,3.313714,4.250000,0.688051,10.000000,6,middle
+5,5,t.05.03,This means that the entire path must be connected like a loop.,12,7,7,1.000000,2.587571,3.875000,-1.246073,26.000000,6,bottom
+5,5,t.05.04,Imagine a simple circuit made with a battery and a piece of wire.,13,7,7,1.000000,3.170286,4.111000,0.306021,13.000000,6,middle
+5,5,t.05.05,Now connect each end of the wire to different ends of the battery.,13,8,8,1.000000,3.052000,4.111000,-0.009040,17.000000,6,middle
+5,5,t.05.06,Your piece of wire and battery now make a circle or circular path.,13,8,8,1.000000,3.658500,4.526000,1.606408,1.000000,6,top
+5,5,t.05.07,One end of the battery is positive and the other end negative.,12,7,7,1.000000,2.853857,3.706000,-0.536805,19.000000,6,middle
+5,5,t.05.08,Electrons will flow across this circuit through the wire.,9,6,6,1.000000,3.087667,4.111000,0.085960,16.000000,6,middle
+5,5,t.05.09,You have just created a simple electrical circuit.,8,5,5,1.000000,2.722200,3.294000,-0.887482,22.000000,6,middle
+5,5,t.05.10,Removing the wire from the battery will stop the flow of electrons.,12,6,6,1.000000,3.337000,4.111000,0.750074,7.000000,6,middle
+5,5,t.05.11,Now imagine that you want to connect the battery to a lightbulb.,12,6,6,1.000000,2.945167,4.222000,-0.293597,18.000000,6,middle
+5,5,t.05.12,First the wire is cut in the middle and breaks the circuit.,12,6,6,1.000000,3.326833,4.111000,0.722995,9.000000,6,middle
+5,5,t.05.13,Then a lightbulb is inserted to reconnect the circuit.,9,4,4,1.000000,3.490000,4.222000,1.157599,5.000000,6,top
+5,5,t.05.14,The electrical circuit is complete again and electrons are flowing.,10,6,6,1.000000,2.714333,3.632000,-0.908435,23.000000,6,middle
+5,5,t.05.15,"Electricity now flows through the lightbulb, lighting it up.",9,6,6,1.000000,3.352000,4.850000,0.790028,6.000000,6,top
+5,5,t.05.16,"If the circuit is now broken, the lightbulb will go out.",11,6,6,1.000000,3.327167,4.471000,0.723882,8.000000,6,middle
+5,5,t.05.17,You can also add a switch in the circuit to break it or connect it.,15,7,7,1.000000,2.787143,3.667000,-0.714503,20.000000,6,middle
+5,5,t.05.18,This allows you to turn on or turn off the lightbulb.,11,5,5,1.000000,3.301400,4.222000,0.655251,12.000000,6,middle
+5,5,t.05.19,A simple electrical circuit contains several parts.,7,6,6,1.000000,3.133500,3.500000,0.208040,14.000000,6,middle
+5,5,t.05.20,"These include a source, a path, and a resistor.",9,4,3,0.750000,3.125000,3.875000,0.185400,15.000000,6,middle
+5,5,t.05.21,The source provides the energy to an electrical circuit.,9,5,5,1.000000,2.707200,3.294000,-0.927435,24.000000,6,middle
+5,5,t.05.22,"In our example above, the source is the battery.",9,4,4,1.000000,3.304750,3.706000,0.664174,11.000000,6,middle
+5,5,t.05.23,"Batteries can differ in voltage, the electric potential or force.",10,7,7,1.000000,2.734000,3.706000,-0.856052,21.000000,6,middle
+5,5,t.05.24,The path is the closed loop with wires that connect to the source.,13,6,6,1.000000,3.635833,4.250000,1.546034,2.000000,6,top
+5,5,t.05.25,Electrons flow through the path as electric currents.,8,6,6,1.000000,2.567167,3.875000,-1.300423,27.000000,6,bottom
+5,5,t.05.26,Electric currents increase with increased voltage.,6,5,5,1.000000,2.505600,2.900000,-1.464409,29.000000,6,bottom
+5,5,t.05.27,The resistor is any device that reduces the electric current.,10,6,5,0.833333,2.535200,4.316000,-1.385568,28.000000,6,bottom
+5,5,t.05.28,It creates resistance or impedance in the electrical circuit.,9,5,5,1.000000,2.668000,3.294000,-1.031847,25.000000,6,bottom
+5,5,t.05.29,"In our example above, the resistor is the lightbulb.",9,4,3,0.750000,3.578333,4.222000,1.392880,4.000000,6,top
+5,5,t.05.30,Electric currents decrease with increased resistance.,6,5,5,1.000000,2.505400,3.053000,-1.464942,30.000000,6,bottom
